@@ -1,0 +1,6 @@
+Tính năng mới: Quản lý tiến độ học tập cá nhân.
+1. Cho phép người dùng thêm các mục tiêu học tập hàng ngày.
+2. Ghi nhận tiến độ học tập và hiển thị theo tuần.
+3. Lưu thông tin vào file docs/plan.md tự động.
+4. Cảnh báo nếu người dùng chưa hoàn thành mục tiêu.
+5. Tích hợp báo cáo tổng kết cuối tuần.
