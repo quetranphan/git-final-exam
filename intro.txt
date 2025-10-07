@@ -1,0 +1,15 @@
+Giới thiệu cá nhân:
+Tôi là Phan Thị Quế Trân, sinh viên ngành [Công Nghệ Thông Tin].
+Hiện đang học tại [Trường Đại học Nam Cần Thơ].
+Tôi yêu thích công nghệ và muốn học Git để quản lý dự án tốt hơn.
+Git giúp tôi làm việc nhóm hiệu quả hơn.
+
+Sở thích:
+1. Lập trình
+2. Đọc sách
+3. Du lịch
+
+Kỹ năng:
+1. C#
+2. Git
+3. SQL
